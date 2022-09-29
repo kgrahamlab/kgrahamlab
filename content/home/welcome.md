@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: The Water Quality/Climate/Health lab at Georgia Tech
+title: The Water Quality/Climate/Health lab
 hero_media: welcome.jpg
 widget_id: recent-posts
 design:
